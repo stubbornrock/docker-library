@@ -1,2 +1,2 @@
-FROM quay.io/coreos/hyperkube:v1.6.4_coreos.0
+FROM gcr.io/google-containers/hyperkube:v1.11.3
 MAINTAINER chengs <353063035@qq.com>
